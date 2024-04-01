@@ -1,8 +1,8 @@
 # My Developer Portfolio
 
-[Demo](https://rtharusha.netlify.app/)
+<!-- [Demo](https://rtharusha.netlify.app/) -->
 
-![image](https://github.com/randilt/react-dev-portfolio/assets/51049280/ac9d1108-266a-4cfe-98ef-36081db11770)
+<!-- ![image](https://github.com/randilt/react-dev-portfolio/assets/51049280/ac9d1108-266a-4cfe-98ef-36081db11770) -->
 
 
 Welcome to my personal developer portfolio! This project serves as a showcase for my skills, projects, and experiences.
@@ -20,12 +20,12 @@ Welcome to my personal developer portfolio! This project serves as a showcase fo
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/randilt/react-dev-portfolio.git
+git clone https://github.com/stepanusjanu19/my_porto.git
 ```
 
 ## 2. Navigate to the Project
 ```bash
-cd react-dev-portfolio
+cd my_porto
 ```
 ## 3. Install Dependencies
 
