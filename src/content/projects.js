@@ -1,30 +1,57 @@
 //projects start
 const projects = [
   {
-    name: "Booking.com clone",
+    name: "E-Training Solo Digital Techno Park",
     description:
-      "A clone of booking.com which is built using Nextjs 14 and Oxylabs webscraping API to scrape data from the official booking.com website and show as results of our queries",
-    stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/booking.com-clone-nextjs14",
-    img: "/bookingcom.jpg",
-    preview: "https://bookingcomnext14.netlify.app/",
+      "A clone of solodigitaltechnopark from etraining which is built using Codeigniter and RDBMS from MySQL from realtime data in Firebase Cloud Messaging",
+    stack: ["Codeigniter", "Firebase Cloud Messaging", "MySQL"],
+    sourceCode: "https://github.com/stepanusjanu19/etraining",
+    img: "/etraining.jpg",
+    preview: "https://etraining.solodigitaltechnopark.co.id/",
   },
   {
-    name: "Cyberscourge Hub",
+    name: "Employee System",
     description:
-      "An open source ultra fast markdown blog app built using Hugo and deployed on Netlify. The theme of this app is 100% custom built by me. The theme is also open source and can be found on my github profile. And I regularly write articles on this blog.",
-    stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/cyberscourge-hub",
-    img: "/cyberscourge.jpg",
-    preview: "https://rtharusha.tech",
+      "An for this system build use integration data employee and process from Attendance to Financial",
+    stack: ["Codeigniter", "MySQL", "Javascript"],
+    sourceCode: "https://github.com/stepanusjanu19/sistempegawai",
+    img: "/sig.jpg",
+    preview: "#",
   },
   {
-    name: "Jotion (Notion Clone)",
+    name: "Simple Go Rest API",
     description:
-      "A clone of the popular note taking app Notion. This app is built using Nextjs 13 and Tailwind CSS. It uses clerk for authentication and convex for its real time database. The project is not yet complete ",
-    stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/notion-clone",
-    img: "/jotion.jpg",
+      "A clone of Simple Rest API use Golang and MySQL for management database systems",
+    stack: ["Golang", "MySQL"],
+    sourceCode: "https://github.com/stepanusjanu19/goRESTAPI",
+    img: "/thumbnail_api.jpg",
+    preview: "#",
+  },
+  {
+    name: "PHP Services",
+    description:
+      "A clone of PHP Native Services use PHP and ODBC for data source from RDBMS Microsoft SQL Server",
+    stack: ["PHP", "ODBC", "MSSQL"],
+    sourceCode: "https://github.com/stepanusjanu19/service_php",
+    img: "/thumbnail_api.jpg",
+    preview: "#",
+  },
+  {
+    name: "K24 Apotek API",
+    description:
+      "A clone of K24 Apotek API Services use NodeJS and RDBMS MySQL",
+    stack: ["NodeJS", "MySQL"],
+    sourceCode: "https://github.com/stepanusjanu19/K24_Api",
+    img: "/thumbnail_api.jpg",
+    preview: "#",
+  },
+  {
+    name: "MQ Processing",
+    description:
+      "A clone of MQ Processing data on connection data source from ODBC connection MSSQL and then tools queue data",
+    stack: ["NodeJS", "ODBC", "MSSQL", "RabbitMQ"],
+    sourceCode: "https://github.com/stepanusjanu19/message_broker/tree/klinik_charitas_lidwina",
+    img: "/rabbitmq.jpg",
     preview: "#",
   },
 ];
