@@ -54,6 +54,14 @@ const projects = [
     img: "/rabbitmq.jpg",
     preview: "#",
   },
+  {
+    name: "Swap Up",
+    description: "A clone of Swap Up for use Laravel and React JS",
+    stack: ["Laravel", "React JS"],
+    sourceCode: "https://github.com/stepanusjanu19/swapup-be",
+    img: "/swapup.png",
+    preview: "https://swapup.com.au"
+  }
 ];
 
 //projects end
