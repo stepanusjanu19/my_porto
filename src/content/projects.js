@@ -55,6 +55,22 @@ const projects = [
     preview: "#",
   },
   {
+    name: "Services API BPJS from HIS Apps",
+    description: "A clone of Services API BPJS from Hospital Information Systems Apps for use ASP.Net and Ms.SQL",
+    stack: ["ASP.Net", "MSSQL"],
+    sourceCode: "#",
+    img: "/avicenna.jpeg",
+    preview: "#"
+  },
+  {
+    name: "Queue Dashboard",
+    description: "A clone of Queue Dashboard for use Laravel Livewire and WebSocket Rabbit MQ",
+    stack: ["Laravel", "Rabbit MQ"],
+    sourceCode: "https://github.com/stepanusjanu19/dashboard_antrian",
+    img: "/dashboardqueue.jpeg",
+    preview: "#"
+  },
+  {
     name: "Swap Up",
     description: "A clone of Swap Up for use Laravel and React JS",
     stack: ["Laravel", "React JS"],
